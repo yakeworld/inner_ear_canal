@@ -11,7 +11,7 @@ Spatial orientation vectors of individual membranous semicircular canals were qu
 ### Conclusions: 
 This study demonstrates the power of multi-modal high-resolution imaging in unveiling previously inaccessible details of the membranous semicircular canal system. The measured spatial orientation disparities and unique morphological attributes suggest potential biomechanical implications in angular motion transduction. The ability to precisely reconstruct and quantify membranous canal structures advances our understanding of vestibular biokinematics and pathophysiology.
 
-
+## readme
 The directory contains centerline data for bony and membranous semicircular canals from different imaging sequences. The *.mrk.json files represent the centerline data for the semicircular canals, and the data_dict.json file contains the extracted centerline data.
 
 The getmark.py program extracts the centerline data from the *.mrk.json files and calculates the normal vectors of the semicircular canal planes.
